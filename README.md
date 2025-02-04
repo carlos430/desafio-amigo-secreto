@@ -1,4 +1,5 @@
 
+
 # Desafio Amigos Secretos
 En este desafío, se desarrolla una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -26,11 +27,12 @@ Tecnologias Usadas en este proyecto:
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-
 ## About Me
 
 Soy Carlos Javier Fenelon Laureano y soy de República Dominicana.
 
-- [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/carlosjavier430/) 
+- [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/carlos430/) 
 - [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlosjavier430/)
+
+
 
